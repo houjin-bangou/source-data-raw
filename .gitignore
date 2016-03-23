@@ -1,0 +1,9 @@
+*.swp
+/raw/base/csv/*.csv
+/raw/base/csv/*.csv.asc
+/raw/diff/csv/*.csv
+/raw/diff/csv/*.csv.asc
+/raw/base/xml/*.xml
+/raw/base/xml/*.xml.asc
+/raw/diff/xml/*.xml
+/raw/diff/xml/*.xml.asc
